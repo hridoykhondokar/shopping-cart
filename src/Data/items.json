@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Banana",
+        "price": 10.15,
+        "imgUrl": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2018/08/bananas-1354785_1920-1200x800.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Book",
+        "price": 17.23,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSASoMj4JHR6q4IRNbsmdfIQ1wAEE48NWrQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Car",
+        "price": 14222,
+        "imgUrl": "https://i.ytimg.com/vi/tArC9-RHmU4/maxresdefault.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Computer",
+        "price": 129,
+        "imgUrl": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    }
+]
